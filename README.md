@@ -1,3 +1,5 @@
+#### tested with NPM 6.14.9 and Node.js 12.19.0
+
 ## Launch API
 1. Checkout **"api" folder**
 2. Run **"npm i"** command to install all the required dependencies
